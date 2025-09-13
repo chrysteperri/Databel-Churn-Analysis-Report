@@ -29,9 +29,16 @@ This project analyses customer churn for Databel, a telecommunications company, 
 
 ## Screenshots
 
+### Churn Overview
 ![Churn Overview](images/churn_overview.png)
+
+### Customer Segmentation
 ![Customer Segmentation](images/customer_segmentation.png)
+
+### Contract Type
 ![Contract Type](images/contract_type.png)
+
+### Insights
 ![Insights](images/insights.png)
 
 ## How to Use
